@@ -1,5 +1,5 @@
 # lwtb
-Learn With TensorBoard
+Teach With TensorBoard
 
 
 NOTE: Put the following lines in every machine you use
